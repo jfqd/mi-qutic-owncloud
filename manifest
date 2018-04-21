@@ -1,0 +1,8 @@
+name="qutic-owncloud"
+organization="qutic development"
+brand="owncloud instance"
+version="17.4.0"
+description="qutic owncloud 9.1.8 image"
+homepage="https://github.com/jfqd/mi-qutic-owncloud"
+users="root admin"
+base="26cf8c16-2b8e-11e8-8d7f-3fff13b53d67"
